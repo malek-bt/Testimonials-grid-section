@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Testimonials-grid-section/static/css/main.2aec5089.css",
+    "main.js": "/Testimonials-grid-section/static/js/main.9a18c825.js",
+    "static/js/787.ab5bc390.chunk.js": "/Testimonials-grid-section/static/js/787.ab5bc390.chunk.js",
+    "index.html": "/Testimonials-grid-section/index.html",
+    "static/media/bg-pattern-quotation.svg": "/Testimonials-grid-section/static/media/bg-pattern-quotation.6b460e30439432820da6.svg",
+    "main.2aec5089.css.map": "/Testimonials-grid-section/static/css/main.2aec5089.css.map",
+    "main.9a18c825.js.map": "/Testimonials-grid-section/static/js/main.9a18c825.js.map",
+    "787.ab5bc390.chunk.js.map": "/Testimonials-grid-section/static/js/787.ab5bc390.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aec5089.css",
+    "static/js/main.9a18c825.js"
+  ]
+}
