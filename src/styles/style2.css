@@ -1,0 +1,11 @@
+
+.card2 {
+    border-radius: .75rem;
+   background-color: hsl(217, 19%, 35%);
+   margin-bottom: 1.25rem;
+   -webkit-box-shadow: 1px 11px 15px 2px rgba(168,161,168,0.98);
+-moz-box-shadow: 1px 11px 15px 2px rgba(168,161,168,0.98);
+box-shadow: 1px 11px 15px 2px rgba(168,161,168,0.98);
+}
+
+
