@@ -58,7 +58,7 @@ To set up this project, follow the steps below:
 
 This project was developed with reference to the following resources:
 
-- [Frontend Mentor]((https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7) for providing the challenge
+- [Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7) for providing the challenge
 - [React documentation](https://reactjs.org/docs/getting-started.html) for reference and guidance
 
 ## Credits
